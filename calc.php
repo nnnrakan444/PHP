@@ -13,7 +13,7 @@
     }
     elseif(empty($number2))
     {
-        $result = "الرقم hgehkd فارغ"
+        $result = "الرقم الثاني فارغ"
     }
     elseif(empty($op))
     {
